@@ -50,6 +50,7 @@ body {
 }
 .nav-logo {
   padding: 1rem 4rem;
+  margin: auto;
 }
 .text-card{
   display: flex;
